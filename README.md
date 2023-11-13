@@ -75,7 +75,8 @@ Server is running on Port 3333
 $ email: admin@explorer.com
 $ password: adminrocket
 
-# Ao tentar fazer o login na plataforma, aguarde por volta de 1 minuto ou mais, pois o backend está hospedado em um serviço gratuito e contém esse periodo de inatividade!
+# Ao tentar fazer o login na plataforma, aguarde por volta de 1 minuto ou mais,
+o backend está hospedado em um serviço gratuito e contém esse periodo de inatividade!
 ```
 
 
