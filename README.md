@@ -47,7 +47,7 @@ $ cd backend-food-explorer
 
 $ git clone https://github.com/JuanRezende/Ex-RocketFoodExplorerBackend.git
 
-#Instale as dependências do projeto
+# Instale as dependências do projeto
 
 $ npm install
 
@@ -60,7 +60,7 @@ $ npm seed
 
 $ npm run dev
 
-#Se tudo correr bem, aparecerá no terminal a mensagem a seguir
+# Se tudo correr bem, aparecerá no terminal a mensagem a seguir
 
 Server is running on Port 3333
 ```
@@ -74,4 +74,8 @@ Server is running on Port 3333
 
 $ email: admin@explorer.com
 $ password: adminrocket
+
+# Ao tentar fazer o login na plataforma, aguarde por volta de 1 minuto ou mais, pois o backend está hospedado em um serviço gratuito e contém esse periodo de inatividade!
 ```
+
+
