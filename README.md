@@ -76,7 +76,7 @@ $ email: admin@explorer.com
 $ password: adminrocket
 
 # Ao tentar fazer o login na plataforma, aguarde por volta de 1 minuto ou mais,
-o backend está hospedado em um serviço gratuito e contém esse periodo de inatividade!
+# o backend está hospedado em um serviço gratuito e contém esse periodo de inatividade!
 ```
 
 
